@@ -23,4 +23,4 @@ download_file() {
 }
 
 # Call the function with the URL of the file and the name of the local file to create (without any extension)
-download_image $1 $2
+download_file $1 $2
